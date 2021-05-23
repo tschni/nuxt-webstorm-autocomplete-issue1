@@ -1,5 +1,8 @@
 # nuxt-webstorm-autocomplete-issue1
 
+## Information
+This is an example Nuxt.js project for the WebStorm issue https://youtrack.jetbrains.com/issue/WEB-51041
+
 ## Build Setup
 
 ```bash
